@@ -1,0 +1,10 @@
+#include <sys/ipc.h>
+#include <sys/shm.h>
+int *naWantPossess;
+int *nPriority;
+int *naA;
+int *naB;
+int *naC;
+
+int *nMoves;
+int *nDisks;
